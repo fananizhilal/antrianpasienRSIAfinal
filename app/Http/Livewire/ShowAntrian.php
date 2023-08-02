@@ -198,7 +198,6 @@ class ShowAntrian extends Component
         $this->no_hp = $user->no_hp;
         $this->no_ktp = $user->no_ktp;
         
-    
     }
 
     public function render()
